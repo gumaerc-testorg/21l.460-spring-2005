@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: efde6985-d1d7-1bc3-b7c6-775a523528e4
 resourcetype: Document
 title: Reader Responses
 uid: e9f11003-b849-9428-7ff3-152b113197a6

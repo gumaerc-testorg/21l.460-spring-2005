@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: efde6985-d1d7-1bc3-b7c6-775a523528e4
 resourcetype: Document
 title: Biblical Echoes in Guillelm de Poitou (#7)
 uid: 7dfc6768-3f24-7fd1-001b-03f53908729a

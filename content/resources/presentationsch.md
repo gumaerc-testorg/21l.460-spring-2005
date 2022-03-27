@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: efde6985-d1d7-1bc3-b7c6-775a523528e4
 resourcetype: Document
 title: Presentation Schedule
 uid: 9235e737-81f7-0bf3-14f8-c31d4274cb18
