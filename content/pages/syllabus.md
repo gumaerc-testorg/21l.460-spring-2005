@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 3bcc67c7-4eca-e358-5ebf-ca4668b3b078
 ---
@@ -88,11 +89,11 @@ Writing Requirements
 
 ### Reader Responses
 
-For specific classes marked on the [calendar]({{< baseurl >}}/pages/calendar) page, Reader Responses covering the current reading assignment will be due. Reader Responses should be 3 pages in length, typewritten in 12-point type, double-spaced with 1-inch margins on all sides, stapled together, and each page must be numbered.
+For specific classes marked on the {{< resource_link 6b97ccca-35d0-39bb-60f5-7c597da5b281 "calendar" >}} page, Reader Responses covering the current reading assignment will be due. Reader Responses should be 3 pages in length, typewritten in 12-point type, double-spaced with 1-inch margins on all sides, stapled together, and each page must be numbered.
 
 ### Oral Presentation and Write-Up
 
-Each student will be required to make one 10-minute presentation to the rest of the class on an independent research topic chosen from a list (on one of the three days allotted on the [calendar]({{< baseurl >}}/pages/calendar) page). One week after the presentation, a more formal 5-page write-up will be submitted.
+Each student will be required to make one 10-minute presentation to the rest of the class on an independent research topic chosen from a list (on one of the three days allotted on the {{< resource_link 6b97ccca-35d0-39bb-60f5-7c597da5b281 "calendar" >}} page). One week after the presentation, a more formal 5-page write-up will be submitted.
 
 ### Final Paper
 
