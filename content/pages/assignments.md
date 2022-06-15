@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions for reading response assignments and
+  the final paper assignment for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 0867a9ad-d99c-20a1-40f8-5f0777f8eefe
 ---
@@ -11,7 +12,7 @@ uid: 0867a9ad-d99c-20a1-40f8-5f0777f8eefe
 Reader Responses
 ----------------
 
-For specific classes marked on the {{< resource_link 6b97ccca-35d0-39bb-60f5-7c597da5b281 "calendar" >}} page, Reader Responses covering the current reading assignment will be due. Reader Responses should be 3 pages in length, typewritten in 12-point type, double-spaced with 1-inch margins on all sides, stapled together, and each page must be numbered. Each Reader Response will consist of three principal parts as described below:
+For specific classes marked on the {{% resource_link 6b97ccca-35d0-39bb-60f5-7c597da5b281 "calendar" %}} page, Reader Responses covering the current reading assignment will be due. Reader Responses should be 3 pages in length, typewritten in 12-point type, double-spaced with 1-inch margins on all sides, stapled together, and each page must be numbered. Each Reader Response will consist of three principal parts as described below:
 
 1.  Identify some feature within the text (e.g., imagery, theme, incident, passage, narrative structure, framing device, style, sentence construction, message or moral, etc.) which happens to strike you as strange, unfamiliar, remarkable, or problematic, and explain what it is that you find so unusual about that particular element or how it differs from what you might have expected.  
      
