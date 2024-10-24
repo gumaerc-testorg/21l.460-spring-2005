@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Presentation schedule.
-file: /courses/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/9235e73781f70bf314f8c31d4274cb18_presentationsch.pdf
+file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/9235e73781f70bf314f8c31d4274cb18_presentationsch.pdf
 file_size: 10677
 file_type: application/pdf
 learning_resource_types: []
