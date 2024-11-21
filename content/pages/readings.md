@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: a02344e7-1cde-1063-42d4-59f07b259aab
 ---
-[Readings are also listed by session](#ses).
+[Readings are also listed by session](https://ocw-studio.odl.mit.edu/sites/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/type/page/edit/a02344e7-1cde-1063-42d4-59f07b259aab/#ses).
 
 ## Required Texts
 
@@ -37,7 +37,7 @@ Additionally, the following selection of works are available on the Web:
 
 [Dante, De Vulgari Eloquentia](http://www.danteonline.it/italiano/opere.asp?idope=3&idlang=OR)
 
-[Petrarch](http://translations-ink.com/Canzon5.html)
+[Petrarch](https://www.britannica.com/biography/Petrarch)
 
 ## anchoranchoranchoranchorReadings by Session
 
@@ -187,7 +187,7 @@ Free Will and Determinism
 
 Chaucer. *Troilus and Criseyde.* II.
 
-[Petrarch](http://translations-ink.com/Canzon5.html), Sonnet cxxxii, "S'amor non è."
+[Petrarch](https://www.britannica.com/biography/Petrarch), Sonnet cxxxii, "S'amor non è."
 
 23
 
