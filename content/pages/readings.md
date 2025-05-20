@@ -33,7 +33,7 @@ Additionally, the following selection of works are available on the Web:
 
 [Guido Guinizelli](http://www.auburn.edu/~bertocr/)
 
-[Guido Cavalcante](http://www.sonnets.org/pound.htm)
+[Guido Cavalcante](https://www.britannica.com/biography/Guido-Cavalcanti)
 
 [Dante, De Vulgari Eloquentia](http://www.danteonline.it/italiano/opere.asp?idope=3&idlang=OR)
 
@@ -75,7 +75,7 @@ Ennobling Love: Sublimation and Subjection
 
 Dante. *La Vita Nuova*. xxii-xlii.
 
-Cavalcante, Guido. [*Sonnets*](http://www.sonnets.org/pound.htm). xxii and xxiii.
+Cavalcante, Guido. [*Sonnets*](https://en.wikisource.org/wiki/Sonnets_and_Ballate_of_Guido_Cavalcanti/Sonnets). xxii and xxiii.
 
 5
 
