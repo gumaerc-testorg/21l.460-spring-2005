@@ -2,7 +2,7 @@
 content_type: resource
 description: Psalms from the King James Bible provided as study materials for the
   course.
-file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/7dfc67683f247fd1001b03f53908729a_2biblicalechoes.pdf
+file: /courses/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/7dfc67683f247fd1001b03f53908729a_2biblicalechoes.pdf
 file_size: 16985
 file_type: application/pdf
 learning_resource_types: []
